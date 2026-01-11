@@ -8,6 +8,7 @@ const Body = () => {
   return (
     <div>
     <NavBar/>
+    hello from body
       <Outlet/>
       <Footer/>
     </div>
